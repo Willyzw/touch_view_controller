@@ -1,0 +1,11 @@
+<library path="lib/libtouch_view_controller">
+  <class
+    name="touch_view_controller/TouchView"
+    type="touch_view_controller::TouchViewController"
+    base_class_type="rviz::ViewController"
+  >
+    <description>
+      A view controller based on ThirdPersonFollower with touchscreen zoom support.
+    </description>
+  </class>
+</library>
